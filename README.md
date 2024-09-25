@@ -1,2 +1,2 @@
-# aditya-yadav-c-files
-its is for c programs 
+# aditya-yadav-AW ROLLNO 07
+asssignment  for c programs 
